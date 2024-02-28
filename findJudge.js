@@ -16,7 +16,8 @@ function findJudge(n, trust) {
   return -1;
 }
 
-// Example usage:
+// Example usage
+
 const n = 4;
 const trust = [
   [1, 3],
